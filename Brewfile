@@ -39,19 +39,19 @@ cask 'bartender'
 cask 'caffeine'
 cask 'discord'
 cask 'docker'
-cask 'firefox'
+cask 'firefox-developer-edition'
 cask 'github'
 cask 'google-backup-and-sync'
 cask 'google-chrome'
+cask 'brave-browser'
 cask 'gpg-suite'
 cask 'insomnia'
 cask 'java'
-cask 'mysqlworkbench'
 cask 'notion'
 cask 'phpstorm'
 cask 'skype'
 cask 'slack'
-cask 'sublime-text'
+cask 'visual-studio-code'
 cask 'tableplus'
 cask 'telegram-desktop'
 cask 'tor-browser'
@@ -61,6 +61,8 @@ cask 'vagrant'
 cask 'virtualbox' # Might need to allow access in Security settings
 cask 'virtualbox-extension-pack'
 cask 'vlc'
+cask 'enpass'
+cask 'stack'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -78,15 +80,16 @@ cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
+cask 'fira-code'
 
 # Mac App Store
-mas '1Password', id: 1333542190
-mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
-mas 'Keynote', id: 409183694
-mas 'Sip', id: 507257563
-mas 'Spark', id: 1176895641
-mas 'The Unarchiver', id: 425424353
-mas 'Things', id: 904280696
-mas 'Tweetbot', id: 1384080005
-mas 'WhatsApp', id: 1147396723 
+#mas '1Password', id: 1333542190
+#mas 'Byword', id: 420212497
+#mas 'Giphy Capture', id: 668208984
+#mas 'Keynote', id: 409183694
+#mas 'Sip', id: 507257563
+#mas 'Spark', id: 1176895641
+#mas 'The Unarchiver', id: 425424353
+#mas 'Things', id: 904280696
+#mas 'Tweetbot', id: 1384080005
+#mas 'WhatsApp', id: 1147396723 
